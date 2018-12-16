@@ -1,7 +1,7 @@
 {
-    "token": "INSERT YOUR BOT TOKEN",
-    "prefix": "!",
-    "rainbowdelay": 200,
+    "token": "NTIzNzE3NTM0NjcxNjk5OTY5.DvdpEg.GlNRyqpG8PsYjCoahTu7HUxahfU",
+    "prefix": "*",
+    "rainbowdelay": 100,
     "rainbowcommand": "rainbow",
     "rainbowstop": "stop",
     "rainbowrole": [
@@ -16,7 +16,7 @@
     "messageresponse": {
         "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
         "success": "WOOHOO LETS RAINBOW!!!",
-        "rainbowstop": "Ok ranbow is over",
-        "rolenotfound": "The requested role you typed was not found"
+        "rainbowstop": "Ok Ok, enough! Rainbow is over.",
+        "rolenotfound": "The requested role you typed was not found."
     }
 }
